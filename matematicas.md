@@ -2,7 +2,7 @@
 
 # Fichero de matematicas
 
-Esto es un fichero muy chulo. Estos son unos cambios que se aplicaran con rebase.
+Esto es un fichero muy chulo. Estos son unos cambios que se aplicaran con rebase. Y han sido exitosos
 
 Hola, esto es un fichero de lectura para nuesto repositorio
 
