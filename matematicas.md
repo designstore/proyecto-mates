@@ -10,4 +10,6 @@ Esto es una modificación Y estoy haciendo unos progresos muy chulos que serán 
 
 Hemos podido recuperar los progresos sin problemas mediante el Stash
 
+### Modificación mediante HitHub
 
+Esto es una modificación hecha desde la web
